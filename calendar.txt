@@ -1,0 +1,102 @@
+2018-10-02-04-05;Edemer;Amszterdam
+2018-10-04-04-05;Rahel;Kabul
+2018-10-04-04-05;Viktor;Washington
+2018-10-04-05-05;Elton;London
+2018-10-05-04-04;Ada;Reykjavik
+2018-10-05-04-04;Tivadar;Banjul
+2018-10-05-04-04;Arvacska;Ottawa
+2018-10-05-04-04;Loca;Sion
+2018-10-10-13-13;Rahel;Podgorica
+2018-10-10-13-13;Erzsi;Helsinki
+2018-10-10-13-13;Absa;Brazzaville
+2018-10-10-13-13;Viktor;Reykjavik
+2018-10-30-01-02;Absa;Nepjida
+2018-10-30-05-00;Lan;Helsinki
+2018-11-01-01-01;Pap;Valletta
+2018-11-01-01-01;Arvacska;Kabul
+2018-11-03-01-01;Ada;Banjul
+2018-11-03-01-01;Rahel;London
+2018-11-03-11-11;Theo;Canberra
+2018-11-03-11-11;Absa;Chinvali
+2018-11-04-04-04;Viktor;Lajos
+2018-11-04-04-04;Dora;Brazzaville
+2018-11-04-04-05;Rahel;Porto Novo
+2018-11-04-04-05;Edemer;Dakka
+2018-11-04-04-05;Nora;Nepjida
+2018-11-04-04-05;Andor;Valletta
+2018-11-04-05-07;Tarcal;Budapest
+2018-11-04-05-07;Roland;Nicosia
+2018-11-05-03-04;Budipa;Piroska
+2018-11-05-04-04;Piroska;Brazzaville
+2018-11-05-04-06;Bela;Buenos Aires
+2018-11-05-04-06;Ada;Conakry
+2018-11-09-08-18;Nagy;Chinvali
+2018-11-09-08-18;Kiss;Jatekos
+2018-11-09-18-18;Csongor;Buenos Aires
+2018-11-09-18-18;Olcso;Janos
+2018-11-10-10-13;Zador;Helsinki
+2018-11-10-11-13;Eros;Pista
+2018-11-10-11-13;Arvacska;Bujumbura
+2018-11-10-13-13;Rahel;Ottawa
+2018-11-11-13-13;Pazmand;Kabul
+2018-11-11-13-14;Adaj;Porto Novo
+2018-11-11-13-15;Tarcal;Luanda
+2018-11-11-14-13;Ecso;Canberra
+2018-11-11-23-13;Zador;Bujumbura
+2018-11-12-13-13;Piri;Conakry
+2018-11-13-13-13;Ada;Porto Novo
+2018-11-13-13-53;Jozsa;Dakka
+2018-11-14-06-06;Lori;Kabul
+2018-11-14-06-06;Alexa;Chinvali
+2018-11-15-04-06;Natasa;London
+2018-11-15-04-06;Pecsi;Banjul
+2018-11-15-06-06;Pozman;Amszterdam
+2018-11-15-06-06;Lajoska;Dzsibuti
+2018-11-23-13-13;Johanna;Conakry
+2018-11-23-13-13;Laci;Bujumbura
+2018-11-23-13-13;Feri;Brazzaville
+2018-11-23-13-13;Arvacska;Buenos Aires
+2018-11-23-13-13;Karcsi;Budapest
+2018-11-23-13-13;Natasa;Reykjavik
+2018-11-23-13-40;Alexa;Gaborone
+2018-11-23-13-40;Rahel;Luanda
+2018-11-30-02-40;Moni;Luxembourg
+2018-11-30-06-08;Lajos;Nicosia
+2018-12-01-01-01;Tamas;Dakka
+2018-12-01-01-01;Egbert;Helsinki
+2018-12-01-01-01;Alexa;Luxembourg
+2018-12-01-01-01;Pali;Kuvaitvaros
+2018-12-01-01-01;Berci;Vilnius
+2018-12-02-21-02;Egbert;Chinvali
+2018-12-02-21-02;Elton;Bujumbura
+2018-12-02-21-02;Tarcal;Washington
+2018-12-02-21-02;Alexa;Canberra
+2018-12-03-01-01;Elton;Pomaz
+2018-12-03-01-02;Peter;Nicosia
+2018-12-03-02-01;Elektra;Kuvaitvaros
+2018-12-03-03-33;Arvacska;Dzsibuti
+2018-12-03-11-11;Johanna;Budapest
+2018-12-03-21-15;Tarcal;Bujumbura
+2018-12-04-04-04;Ozora;Porto Novo
+2018-12-04-04-06;Viktor;Luanda
+2018-12-04-13-11;Alexa;Vilnius
+2018-12-05-11-31;Viktor;London
+2018-12-06-04-04;Johanna;Gaborone
+2018-12-07-04-04;Viktor;Ottawa
+2018-12-08-04-04;Ozora;Dakka
+2018-12-09-04-06;Elektra;Kuvaitvaros
+2018-12-11-13-10;Natasa;Reykjavik
+2018-12-12-13-13;Arvacska;Gaborone
+2018-12-13-13-10;Johanna;Amszterdam
+2018-12-13-13-13;Jozsa;Canberra
+2018-12-13-16-13;Alexa;Ottawa
+2018-12-14-06-10;Olivia;Washington
+2018-12-15-06-10;Elektra;Dzsibuti
+2018-12-15-13-13;Olivia;Helsinki
+2018-12-17-13-13;Elektra;Nicosia
+2018-12-18-13-13;Natasa;Gaborone
+2019-01-13-13-13;Arvacska;Luanda
+2019-01-13-13-13;Johanna;Porto Novo
+2019-01-13-13-13;Elektra;Buenos Aires
+2019-01-13-13-13;Jozsa;Dakka
+2019-01-13-13-13;Jozsa;Dakkáéáé
